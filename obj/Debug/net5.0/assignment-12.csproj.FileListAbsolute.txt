@@ -1,0 +1,16 @@
+C:\Users\LANRE\Desktop\ACE\bigjara1\bigjara\web program\assignment\assignment-12\bin\Debug\net5.0\assignment-12.exe
+C:\Users\LANRE\Desktop\ACE\bigjara1\bigjara\web program\assignment\assignment-12\bin\Debug\net5.0\assignment-12.deps.json
+C:\Users\LANRE\Desktop\ACE\bigjara1\bigjara\web program\assignment\assignment-12\bin\Debug\net5.0\assignment-12.runtimeconfig.json
+C:\Users\LANRE\Desktop\ACE\bigjara1\bigjara\web program\assignment\assignment-12\bin\Debug\net5.0\assignment-12.runtimeconfig.dev.json
+C:\Users\LANRE\Desktop\ACE\bigjara1\bigjara\web program\assignment\assignment-12\bin\Debug\net5.0\assignment-12.dll
+C:\Users\LANRE\Desktop\ACE\bigjara1\bigjara\web program\assignment\assignment-12\bin\Debug\net5.0\ref\assignment-12.dll
+C:\Users\LANRE\Desktop\ACE\bigjara1\bigjara\web program\assignment\assignment-12\bin\Debug\net5.0\assignment-12.pdb
+C:\Users\LANRE\Desktop\ACE\bigjara1\bigjara\web program\assignment\assignment-12\obj\Debug\net5.0\assignment-12.csprojAssemblyReference.cache
+C:\Users\LANRE\Desktop\ACE\bigjara1\bigjara\web program\assignment\assignment-12\obj\Debug\net5.0\assignment-12.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LANRE\Desktop\ACE\bigjara1\bigjara\web program\assignment\assignment-12\obj\Debug\net5.0\assignment-12.AssemblyInfoInputs.cache
+C:\Users\LANRE\Desktop\ACE\bigjara1\bigjara\web program\assignment\assignment-12\obj\Debug\net5.0\assignment-12.AssemblyInfo.cs
+C:\Users\LANRE\Desktop\ACE\bigjara1\bigjara\web program\assignment\assignment-12\obj\Debug\net5.0\assignment-12.csproj.CoreCompileInputs.cache
+C:\Users\LANRE\Desktop\ACE\bigjara1\bigjara\web program\assignment\assignment-12\obj\Debug\net5.0\assignment-12.dll
+C:\Users\LANRE\Desktop\ACE\bigjara1\bigjara\web program\assignment\assignment-12\obj\Debug\net5.0\ref\assignment-12.dll
+C:\Users\LANRE\Desktop\ACE\bigjara1\bigjara\web program\assignment\assignment-12\obj\Debug\net5.0\assignment-12.pdb
+C:\Users\LANRE\Desktop\ACE\bigjara1\bigjara\web program\assignment\assignment-12\obj\Debug\net5.0\assignment-12.genruntimeconfig.cache
